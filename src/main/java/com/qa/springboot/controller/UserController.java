@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class UserController {
 	
 
-	private String sss;
+	private String ooo;
 
 	private String wwww;
 
