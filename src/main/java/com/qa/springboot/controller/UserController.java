@@ -11,7 +11,7 @@ public class UserController {
 	
 	@RequestMapping("/u")
 	public Object abc(){
-		return "asd";
+		return "bbbbbbbb";
 	
 }}
 
