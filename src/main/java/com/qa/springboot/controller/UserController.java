@@ -7,11 +7,11 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/user")
 public class UserController {
-	private String aaa;
+	private String ccc;
 	
 	@RequestMapping("/u")
 	public Object abc(){
-		return "asd";
+		return "mmm";
 	
 }}
 
