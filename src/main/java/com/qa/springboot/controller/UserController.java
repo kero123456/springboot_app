@@ -8,11 +8,19 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/user")
 public class UserController {
 	
+
 	private String ccc;
+
+	private String wwww;
+
 	
 	@RequestMapping("/u")
 	public Object abc(){
-		return "mmm";
+
+	
+
+		return "zxzxzxzxz";
+
 	
 }}
 
