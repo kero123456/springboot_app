@@ -10,6 +10,7 @@ public class UserController {
 	
 
 	private String ooo;
+	private String ppppppppppppp;
 
 	private String wwww;
 
